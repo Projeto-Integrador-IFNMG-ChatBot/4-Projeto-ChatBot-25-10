@@ -1,0 +1,8 @@
+PyPDF2
+pandas
+camelot-py[cv]
+jupyterlab
+matplotlib
+PyMuPDF
+
+tqdm
